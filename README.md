@@ -4,4 +4,4 @@
 - 🔥 PvPlayer in spare time.
 
 
-<h2>Passionate about Front End<h2/> - https://leonardo.vercel.app
+<h2>Passionate about Front End<h2/> <small>https://leonardo.vercel.app<small/>
