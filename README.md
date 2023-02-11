@@ -5,7 +5,4 @@
 
 
 <h2>Passionate about Front End<h2/>
-
-  
-<h1>My favorite sound<h1/>
   
